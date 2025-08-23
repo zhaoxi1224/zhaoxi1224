@@ -15,5 +15,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=zhaoxi1224&count_private=true&show_icons=true&show_owner=true&height=195" 
        alt="GitHub Stats" style="flex: 1; min-width: 0; max-width: 50%; height: 195px; object-fit: contain;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxi1224&layout=compact&height=195" 
-       alt="Top Languages" style="flex: 1; min-width: 0; max-width: 50%; height: 195px; object-fit: contain;">
+       alt="Top Languages" style="flex: 1; min-width: 0; max-width: 50%; height: 195px; object-fit: contain; right: 0;  margin-right: 0;">
 </div>
