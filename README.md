@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=zhaoxi1224&count_private=true&show_icons=true&show_owner=true&width=490" alt="Stats" style="width: 490px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxi1224&layout=compact&width=490" alt="Langs" style="width: 490px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxi1224&layout=compact&width=490" alt="Langs" style="width: 490px;high: 250px" />
 </div>
 
