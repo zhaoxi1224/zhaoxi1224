@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 1684874802@qq.com
 - ⚡ Technology stack: ...
 
-<div style="display: flex; gap: 20px; max-width: 1000px; margin: 0 auto;justify-content: space-between">
+<div style="display: flex; gap: 20px; max-width: 1000px; margin: 0 auto;right: 0">
   <!-- 两个卡片平均分配宽度，且最大宽度相同 -->
   <img src="https://github-readme-stats.vercel.app/api?username=zhaoxi1224&count_private=true&show_icons=true&show_owner=true&height=195" 
        alt="GitHub Stats" style="flex: 1; min-width: 0; max-width: 50%; height: 195px; object-fit: contain;">
