@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Technology stack: ...
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhaoxi1224&count_private=true&show_icons=true&show_owner=true" alt="Stats" style="width: 490px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zhaoxi1224&count_private=true&show_icons=true&show_owner=true" alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxi1224&layout=compact" alt="Langs" style=" height: 206px" />
 </div>
 
