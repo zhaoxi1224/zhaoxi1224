@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 1684874802@qq.com
 - ⚡ Technology stack: ...
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhaoxi1224&count_private=true&show_icons=true&show_owner=true" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxi1224&layout=compact" alt="Langs" style=" height: 206px" />
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhaoxi1224&count_private=true&show_icons=true&show_owner=true" alt="Stats" style=" flex: 1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoxi1224&layout=compact" alt="Langs"  />
 </div>
 
